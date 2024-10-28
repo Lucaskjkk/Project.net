@@ -1,0 +1,14 @@
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.exe
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.deps.json
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.runtimeconfig.json
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.dll
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\bin\Debug\net6.0\ExemploFundamentos.NET6.pdb
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.AssemblyInfoInputs.cache
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.AssemblyInfo.cs
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.csproj.CoreCompileInputs.cache
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.dll
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\refint\ExemploFundamentos.NET6.dll
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.pdb
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ExemploFundamentos.NET6.genruntimeconfig.cache
+C:\ProjetoCsharp\exemplofundamentos\ExemploFundamentos.NET6\obj\Debug\net6.0\ref\ExemploFundamentos.NET6.dll
